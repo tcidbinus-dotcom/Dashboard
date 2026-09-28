@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #ffffff;
+    color: #0f172a;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  /* Ensure tabular-nums on all metrics, counters, and table numbers */
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Operations Command Center",
+  "description": "Salesforce Omni-Channel + Zoom real-time monitoring dashboard with Over SLA tracking and supervisor actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
